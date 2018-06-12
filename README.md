@@ -24,4 +24,4 @@ Commands:
 
     color off - disable color, in order to fix problems with some consoles
 
-A complete review is available of what each methods does in Persian language in "report.pdf" file.
+A complete report is available of what each methods does in Persian language in "report.pdf" file.
