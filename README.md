@@ -1,7 +1,7 @@
 # Calendar
 A calendar program to show specified date, convert Persian and Gregorian calendar together, in a simple way...
 
-Programmed in java, Run in console.
+Programmed in java, run in console.
 
 # How it works
 First this program shows current month view (based on your system date), then each time get user choice and do what should...
